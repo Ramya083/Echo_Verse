@@ -1,0 +1,5 @@
+streamlit
+gtts
+langdetect
+deep-translator
+PyPDF2
